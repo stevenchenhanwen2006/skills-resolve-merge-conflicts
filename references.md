@@ -1,1 +1,4 @@
-This will have conflicts
+
+# References
+
+conflict resolved
